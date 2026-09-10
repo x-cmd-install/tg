@@ -1,0 +1,102 @@
+- repo: nix_stable_26_05
+  srcname: tg
+  visiblename: tg
+  version: 0.22.0
+  origversion: null
+  status: newest
+  summary: Terminal client for telegram
+  maintainers:
+    - sikmir@disroot.org
+  licenses:
+    - Unlicense
+- repo: aur
+  srcname: tg
+  binname: tg
+  visiblename: tg
+  version: 0.7.0
+  origversion: 0.7.0-1
+  status: outdated
+  summary: An advanced cross-platform solution for timing mechanical watches, a timegrapher. Also known as tg-timer.
+  maintainers:
+    - lightdot@aur
+  licenses:
+    - GPL2
+- repo: aur
+  srcname: tg-git
+  binname: tg-git
+  visiblename: tg-git
+  version: r352.c8b313d
+  origversion: r352.c8b313d-1
+  status: rolling
+  summary: A program for timing mechanical watches
+  maintainers:
+    - aksr@aur
+  licenses:
+    - GPL-2.0
+- repo: nix_stable_24_05
+  srcname: tg
+  visiblename: tg
+  version: 0.19.0
+  origversion: null
+  status: outdated
+  summary: Terminal client for telegram
+  maintainers:
+    - sikmir@disroot.org
+  licenses:
+    - Unlicense
+- repo: nix_stable_24_11
+  srcname: tg
+  visiblename: tg
+  version: 0.19.0
+  origversion: null
+  status: outdated
+  summary: Terminal client for telegram
+  maintainers:
+    - sikmir@disroot.org
+  licenses:
+    - Unlicense
+- repo: nix_stable_25_05
+  srcname: tg
+  visiblename: tg
+  version: 0.19.0
+  origversion: null
+  status: outdated
+  summary: Terminal client for telegram
+  maintainers:
+    - sikmir@disroot.org
+  licenses:
+    - Unlicense
+- repo: nix_stable_25_11
+  srcname: tg
+  visiblename: tg
+  version: 0.22.0
+  origversion: null
+  status: newest
+  summary: Terminal client for telegram
+  maintainers:
+    - sikmir@disroot.org
+  licenses:
+    - Unlicense
+- repo: nix_unstable
+  srcname: tg
+  visiblename: tg
+  version: 0.22.0
+  origversion: null
+  status: newest
+  summary: Terminal client for telegram
+  maintainers:
+    - sikmir@disroot.org
+  licenses:
+    - Unlicense
+- repo: openbsd
+  srcname: net/tg
+  binname: tg
+  visiblename: net/tg
+  version: 0.22.0
+  origversion: null
+  status: newest
+  summary: ncurses Telegram client
+  maintainers:
+    - ports@openbsd.org
+  categories:
+    - net
